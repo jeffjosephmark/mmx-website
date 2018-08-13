@@ -32,9 +32,9 @@
             :key="imageLg"
             class="anim-image"
             mask="url(#mask-2)"
-            x="-40"
+            x="-145"
             y="0"
-            width="395"
+            width="500"
             height="730"
             :xlink:href="imageLg"
           />
@@ -70,9 +70,9 @@
             :key="image"
             class="anim-image"
             mask="url(#mask-2)"
-            x="-40"
+            x="-145"
             y="0"
-            width="325"
+            width="430"
             height="346"
             :xlink:href="image"
           />
@@ -128,7 +128,7 @@ rect {
 }
 
 @keyframes image-animation {
-  0% { x: -40px; }
+  0% { x: -145px; }
   100% { x: 0px; }
 }
 </style>
