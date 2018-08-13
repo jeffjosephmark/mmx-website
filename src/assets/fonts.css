@@ -1,0 +1,22 @@
+@import url('https://use.typekit.net/pld0ahd.css');
+
+@font-face {
+  font-family: 'cerapro';
+  src: url('./cerapro-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'cerapro';
+  src: url('./cerapro-medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'cerapro';
+  src: url('./cerapro-bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
