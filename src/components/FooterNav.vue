@@ -2,7 +2,7 @@
   <nav class="footer-nav">
     <p>
       Proud partner of <a href="https://www.melbournemint.com.au/" target="_blank">Melbourne Mint</a><br>
-      <!-- <a href="#">Terms</a> / <a href="https://www.melbournemint.com.au/Privacy">Privacy</a> -->
+      <a href="https://www.freeprivacypolicy.com/privacy/view/2caed92ac1022a3811b3cd6b2dbd7daa" target="_blank">Privacy Policy</a>
     </p>
     <a href="https://www.melbournemint.com.au/" target="_blank">
       <img src="../assets/logo-mm.svg">
@@ -32,7 +32,7 @@ p {
   text-align: right;
 }
 
-a {
+p > a {
   position: relative;
   display: inline-block;
   color: inherit;
@@ -42,7 +42,7 @@ a {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 1px;
     border-bottom: solid 1px #fff;
     opacity: 0;
     transform: translateY(2px);
