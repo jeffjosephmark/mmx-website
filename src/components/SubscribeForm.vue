@@ -5,7 +5,7 @@
     method="post"
     @submit.prevent="onSubmit"
   >
-    <p>Token sale launching November 2018. Sign up to receive updates:</p>
+    <p>Keep up to date with our token project:</p>
     <input name="EMAIL" type="email" placeholder="Email address" autocomplete="email" required />
     <transition mode="out-in">
       <div v-if="submitting" class="loading" />
