@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="274px" height="274px" viewBox="0 0 274 274" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="98.4081467%" y2="98.4081467%" id="linearGradient-1">
+            <stop stop-color="#E1A262" offset="0%"></stop>
+            <stop stop-color="#DE7A7A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Marketing-site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1002.000000, -5443.000000)" fill="url(#linearGradient-1)">
+            <path d="M1169.35372,5443 L1108.64354,5443 C1049.74724,5443 1002,5490.74724 1002,5549.64628 L1002,5610.35646 C1002,5669.25276 1049.74724,5717 1108.64354,5717 L1169.35372,5717 C1228.25276,5717 1276,5669.25276 1276,5610.35646 L1276,5549.64628 C1276,5490.74724 1228.25276,5443 1169.35372,5443" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

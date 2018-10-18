@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="274px" height="275px" viewBox="0 0 274 275" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="97.5614162%" y2="97.5614162%" id="linearGradient-1">
+            <stop stop-color="#EECC6A" offset="0%"></stop>
+            <stop stop-color="#E1A262" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Marketing-site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-529.000000, -5120.000000)" fill="url(#linearGradient-1)">
+            <path d="M529,5257.5 C529,5333.4385 590.33764,5395 666,5395 C741.66236,5395 803,5333.4385 803,5257.5 C803,5181.5615 741.66236,5120 666,5120 C590.33764,5120 529,5181.5615 529,5257.5 Z" id="Fill-1-Copy"></path>
+        </g>
+    </g>
+</svg>
